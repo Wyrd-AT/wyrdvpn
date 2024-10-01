@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wyrdvpn-dev-17d3b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::440744228419:role/amplify-wyrdvpn-dev-17d3b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::440744228419:role/amplify-wyrdvpn-dev-17d3b-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-wyrdvpn-dev-17d3b-deployment",
+      "UnauthRoleName": "amplify-wyrdvpn-dev-17d3b-unauthRole",
+      "StackName": "amplify-wyrdvpn-dev-17d3b",
+      "StackId": "arn:aws:cloudformation:sa-east-1:440744228419:stack/amplify-wyrdvpn-dev-17d3b/3125f730-7f8e-11ef-8e31-0685ebe48b77",
+      "AmplifyAppId": "d2m5fvixjfjuzm"
+    }
+  }
+}
